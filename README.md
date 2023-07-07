@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=usingkim)
 
@@ -28,7 +28,7 @@ Html, CSS, JavaScript, PHP, MySQL
 ### Contact Me
     chris3209@pusan.ac.kr
 
-
+<div align="center">
 #### :pencil2: Study log
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=usingkim&color=dark)](https://velog.io/@usingkim)
