@@ -6,25 +6,22 @@
 
 ## YooJin Kim
 
-- Majoring Computer Science Engineering
-- 2018.03 ~ 2023.08
+Majoring Computer Science Engineering
+2018.03 ~ 2023.08
 
 ### Learning
 
 #### about iOS
 
-- SwiftUI
-- UIKit
+SwiftUI, UIKit
 
 #### not iOS
 
-- Python
+Python
 
-- C, C++
-- C#
-- Java
-- Kotlin
-- Html, CSS, JavaScript, PHP, MySQL
+C, C++, C#
+Java, Kotlin
+Html, CSS, JavaScript, PHP, MySQL
 
 ### Tool
 
