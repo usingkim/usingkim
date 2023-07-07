@@ -1,18 +1,37 @@
-<!-- ### Hi there 👋
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=usingkim)
+
+# 👩🏻‍💻 iOS App Developer
+
+## YooJin Kim
+
+- Majoring Computer Science Engineering
+- 2018.03 ~ 2023.08
+
+### Learning
+
+#### about iOS
+
+- SwiftUI
+- UIKit
+
+#### not iOS
+
+- Python
+
+- C, C++
+- C#
+- Java
+- Kotlin
+- Html, CSS, JavaScript, PHP, MySQL
+
+### Tool
+
+### Contact Me
+    chris3209@pusan.ac.kr
 
 
-**usingkim/usingkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :pencil2: Study log
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=transparent&text=usingkim)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=usingkim&color=dark)](https://velog.io/@usingkim)
+</div>
