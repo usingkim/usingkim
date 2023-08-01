@@ -38,8 +38,6 @@ Github
 
 ### Contact Me
     chris3209@pusan.ac.kr
-
-<div align="center">
     
 #### :pencil2: Study log
 
