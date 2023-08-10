@@ -6,8 +6,9 @@
 
 ## YooJin Kim (usingkim)
 
-Majoring Computer Science Engineering
-2018.03 ~ 2023.08
+## **🎓 Education**
+
+`2018.03 ~ 2023.08` Computer Science Engineering
 
 ### Contact Me
 
