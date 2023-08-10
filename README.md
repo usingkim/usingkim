@@ -9,6 +9,18 @@
 Majoring Computer Science Engineering
 2018.03 ~ 2023.08
 
+### Contact Me
+
+**📨  Email** 
+chris3209@pusan.ac.kr
+
+**github** 
+[https://github.com/usingkim](https://github.com/usingkim)
+
+**velog** 
+[https://velog.io/@usingkim](https://velog.io/@usingkim)
+
+
 ### 📝 Used Tool & Skill
 
 **Tool**
@@ -53,10 +65,4 @@ Majoring Computer Science Engineering
 
 `꼼꼼함 계획형`
 
-### Contact Me
-    chris3209@pusan.ac.kr
-    
-#### :pencil2: Study log
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=usingkim&color=dark)](https://velog.io/@usingkim)
-</div>
