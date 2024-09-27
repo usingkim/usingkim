@@ -12,9 +12,6 @@
 
 ### Contact Me
 
-**📨  Email** 
-chris3209@naver.com
-
 **github** 
 [https://github.com/usingkim](https://github.com/usingkim)
 
